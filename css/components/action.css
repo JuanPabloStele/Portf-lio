@@ -8,10 +8,9 @@
     margin-right: 30px;
 }
 
-.action::before {
-    content: "";
-    background-color: #FFE577;
-    width: 10px;
-    height: 10px;
-    margin-right: 30px;
+.action:hover {
+    padding-bottom: 1px;
+    border-bottom: 4px  solid rgba(0, 0, 0, 1.9);
+    border-radius: 5.09px;
+    color: #ffd000;
 }

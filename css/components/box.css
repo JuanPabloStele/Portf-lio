@@ -1,10 +1,10 @@
 .box {
-    display: inline-block;
-    justify-content: left;
-    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     padding: 20px 40px;
-    background-color: #D6E9EA;
-    box-shadow: 5px 5px 4px #000;
+    background-color: #fffefe00;
+    box-shadow: 25px 25px 50px #000;
     text-align: center;
 }
 

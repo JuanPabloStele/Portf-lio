@@ -1,0 +1,8 @@
+.container {
+    max-width: 968px;
+    margin: auto;
+  }
+  .padd-15 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }

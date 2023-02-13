@@ -1,0 +1,12 @@
+/* reset*/
+@import "./reset.css";
+/* layauot */
+@import "./componets/layauot.css";
+/* buttons */
+@import "./componets/buttons.css";
+/*header*/
+@import "./componets/header.css";
+/*nav*/
+@import "./componets/navigation.css";
+/* home */
+@import "./componets/home.css";
